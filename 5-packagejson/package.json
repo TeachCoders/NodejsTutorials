@@ -1,0 +1,19 @@
+{
+  "name": "mypackagejson",
+  "version": "1.0.0",
+  "description": "Teach Coders Channel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node",
+    "js"
+  ],
+  "author": "Teach Coders",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "npm-symlink": "0.0.0"
+  }
+}
